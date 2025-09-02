@@ -11,6 +11,8 @@ def input_output():
     # TODO: Implement this function
     pass  # Replace with your code
 
+print("Hello, world!)
+
 name = input("enter your name: ")
 
 age = int(input("enter your age: "))
